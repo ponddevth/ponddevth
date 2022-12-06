@@ -1,7 +1,6 @@
 <h1 align="center">สวัสดี 👋 ผมชื่อ ปอนด์</h1>
-<h3 align="center">เป็น backend developer จากไทย</h3>
+<h3 align="center">backend developer จากประเทศไทย</h3>
 
-- 🔭 ผมกำลังทำงานอยู่ **MysoluM**
 
 - 🌱 ผมกำลังเรียนรู้ **การพัฒนา php framework เป็นของตัวเอง**
 
